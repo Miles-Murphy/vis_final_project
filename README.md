@@ -29,6 +29,7 @@ general utilization of package documentation:
 - Credit to https://stackoverflow.com/questions/8248467/matplotlib-tight-layout-doesnt-take-into-account-figure-suptitle
 - Credit to https://stackoverflow.com/questions/13228254/subplots-are-overlapping-axis-labels
 - Credit to https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh
+- Credit to https://stackoverflow.com/questions/45923189/remove-first-character-from-pandas-column-if-the-number-1
 
 Other problems, questions, or simple solutions were sometimes referenced to the content provided in the Udacity
 lessons themselves. In particular, the creation of the multivariate plots was based on examples from the coursework.
