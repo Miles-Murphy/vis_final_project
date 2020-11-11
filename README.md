@@ -14,8 +14,11 @@ Datetime
 ## Usage
 
 This project is specifically designed to examine Flight data (one of the recommended data options)
-for the final data visualization portion the Data Analyst Nanodegree. It focuses on flight data from
-1988 and 2007 and further wrangled it to examine only flights to and from Pittsburgh, PA. 
+for the final data visualization portion the Data Analyst Nanodegree. 
+The exploratory analysis focuses on flight data from 1988 and 2007 and further wrangled it to examine only flights to and from Pittsburgh, PA.
+The explanatory analysis examines only delayed flights to and from Pittsburgh in 2007.
+The data can be found by following this URL https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
+and downloading the 1988 and 2007 databases. 
 These choices were made related to the Analyst/Author's personal investment in these years and the city.
 
 ## References
@@ -44,5 +47,6 @@ The key takeaways from this exploratory analysis are the following (in no partic
 - Weekdays were preferred for travel over weekends and Saturday was the least favorite day for a flight
 - Late Aircraft delays caused many delays for flights in and out of Pittsburgh in 2007
 - No day of the week saw a lot more total delay time when for the top 5 delay types, but unsurprisingly, weekdays experienced more total delay time than weekends - likely due to the increased travel
+- NAS delays seemed to add more to the overall elapsed time espite usually being the lowest delay type.
 
 The project contains additional data insights that go deeper than the above 6 
