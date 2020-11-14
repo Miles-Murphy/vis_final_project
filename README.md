@@ -37,16 +37,3 @@ general utilization of package documentation:
 Other problems, questions, or simple solutions were sometimes referenced to the content provided in the Udacity
 lessons themselves. In particular, the creation of the multivariate plots was based on examples from the coursework.
 
-## Takeaways
-
-The key takeaways from this exploratory analysis are the following (in no particular order):
-
-- There were substantially more flights (over 2x more) in 1988 in Pittsburgh than in 2007
-- Despite the vast difference in numbers, the overall pattern remaind fairly consistent when looking at flight data by month or by day of the week
-- Summer travel was preferred over the Winter months and February was the least preferred month to travel
-- Weekdays were preferred for travel over weekends and Saturday was the least favorite day for a flight
-- Late Aircraft delays caused many delays for flights in and out of Pittsburgh in 2007
-- No day of the week saw a lot more total delay time when for the top 5 delay types, but unsurprisingly, weekdays experienced more total delay time than weekends - likely due to the increased travel
-- NAS delays seemed to add more to the overall elapsed time espite usually being the lowest delay type.
-
-The project contains additional data insights that go deeper than the above 6 
